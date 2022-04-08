@@ -1,6 +1,9 @@
 # Todo
 remind what to do 
 
+### 人人都能学会价值投资
+https://github.com/xdite/value-investing-newbie
+
 ### 《一起学 Node.js》彻底重写完毕
 https://cnodejs.org/topic/581b0c4ebb9452c9052e7acb
 
