@@ -23,3 +23,9 @@ https://blog.guyskk.com/
 分享使你我都受益，何乐而不为也。但伏尔泰说过，图书馆是真理和谬误的宝库，所以仅是希望对你有益，若有谬误还望指出以更正。
 
 https://tech.codelc.com/
+
+
+## GeekPlux
+我是一个普通程序员，擅长数据可视化和 Web 前端开发，可以在我的 Github 上找到我做的开源项目。
+
+https://geekplux.com/
