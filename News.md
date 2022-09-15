@@ -1,13 +1,22 @@
 
+
+### [科技爱好者周刊](https://github.com/ruanyf/weekly)    
+
+科技爱好者周刊，每周五发布。    
+https://github.com/ruanyf/weekly
+
+
 ### [好工具周刊](https://github.com/bestxtools/weekly-cn)      
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。    
 https://github.com/bestxtools/weekly-cn
 
 
-### [好科技爱好者周刊](https://github.com/ruanyf/weekly)    
+### [生活奇旅](https://weichen.blog/letters/)    
 
-科技爱好者周刊，每周五发布。    
-https://github.com/ruanyf/weekly
+每周二我会更新一篇文章，通过电子信发送，欢迎在[这里](https://weichen.zhubai.love/)免费订阅。    
+https://weichen.blog/letters/
+
+
 
 
