@@ -20,7 +20,7 @@ https://weichen.blog/letters/
 
 ### [产品周刊](https://www.ezindie.com/weekly)   
 
-分享独立开发、产品变现相关内容，每周五发布。
+分享独立开发、产品变现相关内容，每周五发布。    
 https://www.ezindie.com/weekly
 
 
