@@ -23,6 +23,8 @@ https://weichen.blog/letters/
 分享独立开发、产品变现相关内容，每周五发布。    
 https://www.ezindie.com/weekly
 
+### [SKYue的分享](https://pocket.skyue.com/)   
 
-
+分享日常看到的好文章或资源链接，每工作日更新。    
+https://pocket.skyue.com/
 
