@@ -29,3 +29,8 @@ https://tech.codelc.com/
 我是一个普通程序员，擅长数据可视化和 Web 前端开发，可以在我的 Github 上找到我做的开源项目。
 
 https://geekplux.com/
+
+## SKYue's Home
+我叫「SKYue」，在互联网行业做产品类工作，日常关注互联网、软件应用居多，也喜欢股票投资、社科历史。
+
+https://www.skyue.com/
