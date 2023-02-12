@@ -34,3 +34,9 @@ https://geekplux.com/
 我叫「SKYue」，在互联网行业做产品类工作，日常关注互联网、软件应用居多，也喜欢股票投资、社科历史。
 
 https://www.skyue.com/
+
+
+## happy xiao  
+hi,我是 happy，欢迎来到我的 blog，我在这里通过一篇篇文章，传达给你最值得分享的想法。
+话题包括创作，健康，效率，自我意识，和最重要的，如何变得更快乐。  
+https://happyxiao.com/
