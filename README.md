@@ -1,5 +1,5 @@
-# Todo
-remind what to do 
+# Hodo
+remind what to do (Todo), and write a quick note for me .
 
 ### 人人都能学会价值投资
 https://github.com/xdite/value-investing-newbie
