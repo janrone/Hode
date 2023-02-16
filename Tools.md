@@ -1,14 +1,14 @@
-# 记录好用的工具
+## 工具  
 
+## brew  
+🍺 The missing package manager for macOS (or Linux)
 
-
-
-## Chrome插件   
+### Chrome插件   
 
 SingleFile-将完整的页面保存到一个HTML文件中。
 
 
-## Hidden Bar
+### Hidden Bar
 
 ```
 brew install --cask hiddenbar    
@@ -16,7 +16,7 @@ brew install --cask hiddenbar
 
 https://github.com/dwarvesf/hidden
 
-## BLEUnlock    
+### BLEUnlock    
 
 ```
 brew install bleunlock
