@@ -28,7 +28,7 @@ https://www.ezindie.com/weekly
 分享日常看到的好文章或资源链接，每工作日更新。    
 https://pocket.skyue.com/
 
-### 🥤可乐周报
+### [🥤可乐周报](https://www.kele.me/)
 
 hi👋🏻，我是 happy xiao，🥤可乐周报是我在每周六发送的一封邮件（准时率67.6%😅），
 通过这封邮件，我会分享给你四个可以立即执行的想法。我的灵感来自于平时的阅读和思考，
