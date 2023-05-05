@@ -5,7 +5,7 @@
 https://www.xdite.com/
 
 ## 刘未鹏 | Mind Hacks
-思维改变生活 ** 
+思维改变生活 **   
 不知道什么时候添加的，我是在炜晨的blog中有提到他。2023.5.5. 
 
 http://mindhacks.cn/
