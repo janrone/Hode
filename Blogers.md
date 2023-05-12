@@ -41,3 +41,9 @@ https://www.skyue.com/
 hi,我是 happy，欢迎来到我的 blog，我在这里通过一篇篇文章，传达给你最值得分享的想法。
 话题包括创作，健康，效率，自我意识，和最重要的，如何变得更快乐。  
 https://happyxiao.com/
+
+
+## 章鱼猫先生    
+乐于分享，爱好码字，沉迷于折腾 | Bio & IT 爱好者   
+https://www.yuque.com/shenweiyan  
+
