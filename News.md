@@ -8,7 +8,7 @@ https://github.com/ruanyf/weekly
 
 ### [好工具周刊](https://github.com/bestxtools/weekly-cn)      
 
-发现并分享有趣，有创意，免费、好用的工具，每周四发布。    
+~~发现并分享有趣，有创意，免费、好用的工具，每周四发布。~~  已停更。
 https://github.com/bestxtools/weekly-cn
 
 
