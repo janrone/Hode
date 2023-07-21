@@ -47,3 +47,9 @@ https://happyxiao.com/
 乐于分享，爱好码字，沉迷于折腾 | Bio & IT 爱好者   
 https://www.yuque.com/shenweiyan  
 
+
+## Thorsten Ball   
+Hello! I'm Thorsten.  
+I work remotely as a software engineer for Sourcegraph and have self-published two books.   
+https://thorstenball.com/   
+
