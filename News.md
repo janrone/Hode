@@ -5,6 +5,8 @@
 科技爱好者周刊，每周五发布。    
 https://github.com/ruanyf/weekly
 
+### 老胡的周刊  
+https://weekly.howie6879.com/2023/08-07~08-13.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC103%E6%9C%9F%EF%BC%89.html
 
 ### [好工具周刊](https://github.com/bestxtools/weekly-cn)      
 
