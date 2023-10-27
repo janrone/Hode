@@ -37,3 +37,11 @@ hi👋🏻，我是 happy xiao，🥤可乐周报是我在每周六发送的一�
 我想通过这封邮件，帮助你升级思维方式，让你通过行动来改变，变得更健康、更富有、更快乐，
 变成你一直想成为的自己。  
 https://www.kele.me/
+
+### [AIGC设计周报]([https://www.kele.me/](https://www.zhihu.com/column/c_1597724514938572800))
+
+每周一更新行业新闻和大厂落地AI文章    
+https://www.zhihu.com/column/c_1597724514938572800
+
+
+
