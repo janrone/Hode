@@ -38,7 +38,7 @@ hi👋🏻，我是 happy xiao，🥤可乐周报是我在每周六发送的一�
 变成你一直想成为的自己。  
 https://www.kele.me/
 
-### [AIGC设计周报](https://www.zhihu.com/column/c_1597724514938572800))
+### [AIGC设计周报](https://www.zhihu.com/column/c_1597724514938572800)
 
 每周一更新行业新闻和大厂落地AI文章    
 https://www.zhihu.com/column/c_1597724514938572800
