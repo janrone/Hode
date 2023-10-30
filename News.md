@@ -38,12 +38,12 @@ hi👋🏻，我是 happy xiao，🥤可乐周报是我在每周六发送的一�
 变成你一直想成为的自己。  
 https://www.kele.me/
 
-### [AIGC设计周报]([https://www.kele.me/](https://www.zhihu.com/column/c_1597724514938572800))
+### [AIGC设计周报](https://www.zhihu.com/column/c_1597724514938572800))
 
 每周一更新行业新闻和大厂落地AI文章    
 https://www.zhihu.com/column/c_1597724514938572800
 
-### [AI日报](https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5))
+### [AI日报](https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5)
 
 Gorden Sun 收集的AI资讯，希望对你有帮助。 
 https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5
