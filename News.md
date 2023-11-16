@@ -45,8 +45,13 @@ https://www.zhihu.com/column/c_1597724514938572800
 
 ### [AI日报](https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5)
 
-Gorden Sun 收集的AI资讯，希望对你有帮助。 
+Gorden Sun 收集的AI资讯，希望对你有帮助。  
 https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5
+
+### [DecoHack周刊](https://decohack.zhubai.love/)
+
+DecoHack周刊   
+https://decohack.zhubai.love/  
 
 
 
