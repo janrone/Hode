@@ -5,6 +5,11 @@
 科技爱好者周刊，每周五发布。    
 https://github.com/ruanyf/weekly
 
+### [生信周刊](https://github.com/openbiox/weekly))    
+
+生信爱好者周刊（每周日发布）。     
+https://openbiox.github.io/weekly/
+
 ### 老胡的周刊  
 https://weekly.howie6879.com/   
 
