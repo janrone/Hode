@@ -1,6 +1,9 @@
 # Hodo (Todo && Note)
 remind what to do , and write a quick note for me .
 
+### reddit-top
+https://reddit-top.pages.dev/
+
 ### 人人都能学会价值投资
 https://github.com/xdite/value-investing-newbie
 
