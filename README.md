@@ -49,3 +49,7 @@ CoreLine Android 开发中的日常积累
 
 ### https://www.ctolib.com/
 
+### 软件列表   
+
+https://github.com/SekiBetu/memo/tree/main
+
